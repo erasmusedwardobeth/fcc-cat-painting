@@ -30,7 +30,5 @@ A **FreeCodeCamp project** from the Responsive Web Design course, built with **H
 This project is part of the **FreeCodeCamp Responsive Web Design Certification**.  
 It focuses on practicing **Intermediate CSS** through creative artwork.
 
-## 🧑‍💻 Author
-**Erasmus Edward Obeth**  
 - [GitHub](https://github.com/erasmusedwardobeth)  
 - [Portfolio](https://erasmusedwardobeth.github.io/fcc-portfolio/)
